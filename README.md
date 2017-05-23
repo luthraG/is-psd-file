@@ -33,7 +33,9 @@ PSD_FILE.isPSDSync('temp.psd')
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/is-psd-file.git
+```bash
+$ git clone https://github.com/luthraG/is-psd-file.git
+```
 
 ### API
 
